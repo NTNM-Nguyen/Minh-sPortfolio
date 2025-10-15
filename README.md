@@ -6,7 +6,6 @@ Data professional with 5+ years of experience in leading Digital and Financial s
 - Performed data analysis and reviewed data profile through queries in SQL and Excel to consolidated datasets, enhanced stored procedures, and identified data inconsistencies.
 - Streamlined 60% manual data processing time by building 5+ Power Automate solutions, which helped to increased capacity for strategic initiatives.
 - Consistently achieved 98% Reporting SLA by partnered with multiple stakeholders to translate business requirements into tailored data solutions, and increased Power BI dashboard adoption.
-- Acted as a subject-matter expert in SQL and Power Automate, becoming the go to person for complex troubleshooting, data manipulation, and performance optimization.
 
 **Audit Analyst @ Deloitte Business Services (_September 2019 – June 2021_)**
 - Prepared and reviewed regulatory reporting documentation (contracts, financial statements, auditor’s reports), ensuring 100% compliance with IFRS and local accounting standards.
