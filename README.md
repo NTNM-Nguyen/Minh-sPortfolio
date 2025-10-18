@@ -12,8 +12,3 @@ Data professional with 5+ years of experience in leading Digital and Financial s
 - Analyzed client data and reporting packages using Excel (advanced formulas, VBA) and Access, identifying discrepancies that improved reporting accuracy and reduced audit review time by 20%.
 - Conducted risk assessments for new clients and engagements, completing AML/KYC checks and conflict-of-interest reviews via SAP CRM, DRMS, and internal compliance systems.
 
-### Projects
-### Users' login screen enhancement progress tracking dashboard
-RICOH is a digital printing company that provides traditional and digital imaging solutions, the companies has been in the business for 30+ years. As a part of continuous UX enhancement, the Project Management has rolled out OMS 2.0 enhancement process with the aim to integrate and update printer's login method and screen UI for across whole fleet at Siemens - which is 3000+ devices across 15+ offices. 
-### Canada income & outlay per region
-
