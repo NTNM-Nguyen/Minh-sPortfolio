@@ -1,4 +1,4 @@
-# Business Intelligence Analyst
+# Hi, I'm Minh, a Business Intelligence Analyst
 Data professional with 5+ years of experience in leading Digital and Financial services companies. Proficient in Power BI, SQL, and Power Automate with proven expertise in delivering business insights that drives decision making efficiency. 
 ## Work Experience
 **Reporting & Data Analyst @ RICOH Business Services (_July 2021 – October 2025_)**
