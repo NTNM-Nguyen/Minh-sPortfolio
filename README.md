@@ -14,7 +14,7 @@ I'm a data professional with 5+ years of experience in leading Digital and Finan
 - Analyzed client data and reporting packages using Excel (advanced formulas, VBA) and Access, identifying discrepancies that improved reporting accuracy and reduced audit review time by 20%.
 - Conducted risk assessments for new clients and engagements, completing AML/KYC checks and conflict-of-interest reviews via SAP CRM, DRMS, and internal compliance systems.
 
-
+---
 ## Stakeholder Projects
 **NexChain Logistics' Orders Fulfillment Analysis**
 
