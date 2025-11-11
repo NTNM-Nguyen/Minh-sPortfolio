@@ -13,6 +13,8 @@ I'm a data professional with 5+ years of experience in leading Digital and Finan
 - Prepared and reviewed regulatory reporting documentation (contracts, financial statements, auditor’s reports), ensuring 100% compliance with IFRS and local accounting standards.
 - Analyzed client data and reporting packages using Excel (advanced formulas, VBA) and Access, identifying discrepancies that improved reporting accuracy and reduced audit review time by 20%.
 - Conducted risk assessments for new clients and engagements, completing AML/KYC checks and conflict-of-interest reviews via SAP CRM, DRMS, and internal compliance systems.
+
+
 ## Stakeholder Projects
 **NexChain Logistics' Orders Fulfillment Analysis**
 
